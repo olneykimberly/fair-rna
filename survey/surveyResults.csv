@@ -1,0 +1,10 @@
+outcome,Strongly agree, Agreee, Neutral, Disagree, Strongly disagree
+"many similar software packages, unclear which to use",0.78,0.22,0,0,0
+"Poor documentation",0.67,0.22,0,0.11,0
+"Software is no longer supported",0.56,0.22,0.22,0,0
+"Software is no longer compatible with pipeline",0.44,0.33,0.22,0,0
+"The  software is not open source",0.33,0.11,0.44,0,0
+"the software does not have an intuitive API",0.33,0.22,0.33,0,0
+"unable to use the software due to lack of computing power and memory",0,0.22,0.44,0.22,0.11
+"unable to use the software because it is not compatible with my operating system (i.e windows, mac, linux",0.11,0.11,0.33,0,0.33
+"unable to use a software l because I cannot manage to install it",0.11,0.33,0.22,0.11,0
